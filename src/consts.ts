@@ -32,7 +32,6 @@ export const HeaderLinks = [
   { href: "/category/One/1/", title: "⚡ Z🅰️DDY" },
   { href: "/category/Two/1/", title: "🗺 ZAP" },
   { href: "/category/Three/1/", title: "🌴 ZATREE" },
-  { href: "/category/service/zaddy/", title: "⚡ Z🅰️DDY" },
 ];
 
 // Footer Links, src/components/Footer.astro
