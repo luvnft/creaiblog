@@ -2,14 +2,14 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // Base Page Metadata, src/layouts/BaseLayout.astro
-export const BRAND_NAME = "AstroVerse";
-export const SITE_TITLE = "AstroVerse";
-export const SITE_DESCRIPTION = "An Astro Theme for Visual Storytelling";
+export const BRAND_NAME = "WEEDW3W BLOG";
+export const SITE_TITLE = "WEEDW3W BLOG";
+export const SITE_DESCRIPTION = "Blockchain meets cannibis and spirituality.";
 
 // Tags Page Metadata, src/pages/tags/index.astro
-export const Tags_TITLE = "AstroVerse - All Tags";
+export const Tags_TITLE = "WEEDW3W BLOG";
 export const Tags_DESCRIPTION =
-  "AstroVerse - All tags and the count of articles related to each tag";
+  "Blockchain meets cannibis and spirituality.";
 
 // Tags Page Metadata, src/pages/tags/[tag]/[page].astro
 export function getTagMetadata(tag: string) {
@@ -29,9 +29,9 @@ export function getCategoryMetadata(category: string) {
 
 // Header Links, src/components/Header.astro
 export const HeaderLinks = [
-  { href: "/category/One/1/", title: "One" },
-  { href: "/category/Two/1/", title: "Two" },
-  { href: "/category/Three/1/", title: "Three" },
+  { href: "/category/One/1/", title: "⚡ Z🅰️DDY" },
+  { href: "/category/Two/1/", title: "🗺 ZAP" },
+  { href: "/category/Three/1/", title: "🌴 ZATREE" },
 ];
 
 // Footer Links, src/components/Footer.astro
@@ -45,14 +45,9 @@ export const FooterLinks = [
 export const SocialLinks = [
   { href: "/rss.xml", icon: "tabler:rss", label: "RSS" },
   {
-    href: "https://twitter.com/inotelab",
+    href: "https://twitter.com/weedw3w",
     icon: "tabler:brand-twitter",
     label: "Twitter",
-  },
-  {
-    href: "https://github.com/inotelab",
-    icon: "tabler:brand-github",
-    label: "GitHub",
   },
 ];
 
