@@ -1,84 +1,82 @@
 ---
-title: Why choose Astro over another web framework
-slug: why-astro
-description: Astro is an all-in-one web framework for building fast, content-focused websites. Learn more.
+title: What is WEEDW3W? The Future of Livestream Cannabis Marketing
+slug: what-is-weedw3w
+description: WEEDW3W is revolutionizing cannabis marketing through livestream events, blockchain technology, and AI-driven engagement—all in real time.
 category:
-  - Three
+  - Web3
 tags:
-  - Tailwind
-  - Astro
-  - Jamstack
-pubDate: 2023-09-09
-cover: https://images.unsplash.com/photo-1506220926022-cc5c12acdb35?q=80&w=1960&h=1102&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-coverAlt: AstroVerse-Aliases
-author: VV
+  - AI
+  - What3Words
+  - AR
+  - Blockchain
+pubDate: 2025-04-06
+cover: https://i.imgur.com/yctwrW8.jpeg
+coverAlt: WEEDW3W Livestream Cannabis Marketing Platform
+author: Wizard of Hahz
 ---
 
-Astro is an **all-in-one** **web framework** for building **fast,** **content-focused websites.**
+**WEEDW3W** is the world’s first *livestream cannabis marketing metaverse*, blending **AI, AR, NFTs, memecoins, and blockchain** to create unforgettable, revenue-driving experiences for dispensaries. We're building a cannabis metaverse of dispensaries that unites customers around the world using 3-word maps
+customers can re-sell in a gamified way.
 
-Why choose Astro over another web framework? Here are five core design principles to help explain why we built Astro, the problems that it exists to solve, and why Astro may be the best choice for your project or team.
+### 🌐 The WEEDW3W Ecosystem  
 
-#### Astro is...
+- **[A.](https://a.weedw3w.com)**: The decentralized cannabis social network (powered by Bitcoin/NOSTR)—no gatekeepers, just pure community.  
+- **[TREE.](https://tree.weedw3w.com)**: Linktree for the cannabis industry featuring verified dispensaries *d-commerce merch*  and **[ZANIME](hhttps://www.tiktok.com/@zazaw3w/video/7488172004756049182)** influencers. Branded subdomains (EX thejoint.weedw3w.com).
+- **[ZAP.](https://zap.weedw3w.com)**: Live dispensary sales mapped via *What3Words* for hyper-local deals.  
+- **[ZATV.](https://zatv.weedw3w.com)**: TikTok meets cannabis—decentralized short-form video.  
+- **[POLL.](https://poll.weedw3w.com)**: Blockchain-powered polls (Aptos) to crowdsource product restocks.  
 
-1. [Content-focused](#content-focused): Astro was designed for content-rich websites.
-2. [Server-first](#server-first): Websites run faster when they render HTML on the server.
-3. [Fast by default](#fast-by-default): It should be impossible to build a slow website in Astro.
-4. [Easy to use](#easy-to-use): You don't need to be an expert to build something with Astro.
-5. [Fully-featured, but flexible](#fully-featured-but-flexible): Over 100+ Astro integrations to choose from.
+---
 
-## Content-focused
+### 🚨 The Problem with Weedmaps  
 
-**Astro was designed for building content-rich websites.** This includes most marketing sites, publishing sites, documentation sites, blogs, portfolios, and some ecommerce sites.
+| Weedmaps Pain Points          | WEEDW3W Solutions                  |
+|-------------------------------|------------------------------------|
+| ❌ Ineffective foot traffic    | ✅ *Livestream flash sales* with real-time analytics |
+| ❌ Hidden fees & price hikes   | ✅ Transparent *d-commerce merch* on blockchain |
+| ❌ Static listings             | ✅ *Interactive AR campaigns* + SMS/phantom wallet drops |
 
-By contrast, most modern web frameworks are designed for building _web applications_. These frameworks work best for building more complex, application-like experiences in the browser: logged-in admin dashboards, inboxes, social networks, todo lists, and even native-like applications like [Figma](https://figma.com/) and [Ping](https://ping.gg/).
+---
 
-This is one of the most important differences to understand about Astro. Astro's unique focus on content lets Astro make tradeoffs and deliver unmatched performance features that wouldn't make sense for more application-focused web frameworks to implement.
+### 🛠️ Core Tools  
 
-:::tip
-If your project falls into the second "application" camp, Astro might not be the right choice for your project... **and that's okay!** Check out [Next.js](https://nextjs.org/) for a more application-focused alternative to Astro.
-:::
+#### 👻 **Phantom Wallet**  
+- Non-custodial wallet (Solana/Ethereum/Bitcoin)  
+- **Airdrop promo codes** directly to customers—*no emails or SMS needed*.  
 
-## Server-first
+#### 📍 **What3Words (W3W)**  
+- Every dispensary gets a **3-word ZADDY** (e.g., `///KEEP.IT.SIMPLE`) to pin products with *3-meter accuracy*.  
+- **Used by**: Mercedes, Domino’s, Walmart, and now **WEEDW3W**.  
 
-**Astro leverages server-side rendering over client-side rendering as much as possible.** This is the same approach that traditional server-side frameworks -- PHP, WordPress, Laravel, Ruby on Rails, etc. -- have been using for decades. But you don't need to learn a second server-side language to unlock it. With Astro, everything is still just HTML, CSS, and JavaScript (or TypeScript, if you prefer).
+---
 
-This approach stands in contrast to other modern JavaScript web frameworks like Next.js, SvelteKit, Nuxt, Remix, and others. These frameworks require client-side rendering of your entire website and include server-side rendering mainly to address performance concerns. This approach has been dubbed the **Single Page App (SPA)**, in contrast with Astro's **Multi Page App (MPA)** approach.
+### 🎥 Livestream Experiences  
 
-The SPA model has its benefits. However, these come at the expense of additional complexity and performance tradeoffs. These tradeoffs harm page performance -- including critical metrics like [Time to Interactive (TTI)](https://web.dev/interactive/) -- which doesn't make much sense for content-focused websites where first-load performance is essential.
+**FLASH ZALE**: 1-hour livestream sales with countdown timers.  
+**DJ HOST**: Turn your dispensary into a virtual party.  
+**DICE GAME**: Customers roll for discounts in the live chat.  
+**HIGH ONES**: Cannabis-themed "Hot Ones" with local influencers.  
 
-## Fast by default
+---
 
-Good performance is always important, but it is _especially_ critical for content-focused websites. It has been well-proven that poor performance loses you engagement, conversions, and money. For example:
+### 💎 D-Commerce (Digital Merch)  
+- Convert physical merch to **blockchain-backed dMerch** and create a [@TREE.](https://tree.weedw3w.com) link in bio.  
+- Customers buy with crypto (via Phantom) and redeem *IRL*—or trade/resell.  
+- We create short form meme ads branding dispensaries on social media [@ZAZAW3W](https://tiktok.com/@zazaw3w)
+- We run paid ads on Google and social media mapped to a dispensaries W3W 
 
-- Every 100ms faster → 1% more conversions ([Mobify](https://web.dev/why-speed-matters/), earning +$380,000/yr)
-- 50% faster → 12% more sales ([AutoAnything](https://www.digitalcommerce360.com/2010/08/19/web-accelerator-revs-conversion-and-sales-autoanything/))
-- 20% faster → 10% more conversions ([Furniture Village](https://www.thinkwithgoogle.com/intl/en-gb/marketing-strategies/app-and-mobile/furniture-village-and-greenlight-slash-page-load-times-boosting-user-experience/))
-- 40% faster → 15% more sign-ups ([Pinterest](https://medium.com/pinterest-engineering/driving-user-growth-with-performance-improvements-cfc50dafadd7))
-- 850ms faster → 7% more conversions ([COOK](https://web.dev/why-speed-matters/))
-- Every 1 second slower → 10% fewer users ([BBC](https://www.creativebloq.com/features/how-the-bbc-builds-websites-that-scale))
+---
 
-In many web frameworks, it is easy to build a website that looks great during development only to load painfully slow once deployed. JavaScript is often the culprit, since users’ phones and lower-powered devices rarely match the speed of a developer's laptop.
+### 🏪 Crypto-Friendly Dispensaries  
 
-Astro's magic is in how it combines the two values explained above -- a content focus with a server-first MPA architecture -- to make tradeoffs and deliver features that other frameworks cannot. The result is amazing web performance for every website, out of the box. Our goal: **It should be nearly impossible to build a slow website with Astro.**
+| Dispensary               | Location          | W3W Address                      | Accepted Crypto          |
+|--------------------------|-------------------|----------------------------------|--------------------------|
+| [The Green Solution](https://www.tgscolorado.com) | CO/IL | `///repair.lonely.clash` | BTC, ETH, LTC |
+| [Cannabis & Glass](https://tree.weedw3w.com) | WA | `///nuzzling.fists.benefit` | BTC |
+| [Potify](https://zap.weedw3w.com) | CA (Delivery) | `///tunes.buds.deliver` | BTC, ETH, DOGE |
+| [The Green Cross](https://zatv.weedw3w.com) | SF, CA | `///cape.fries.mugs` | BTC |
 
-An Astro website can [load 40% faster with 90% less JavaScript](https://twitter.com/t3dotgg/status/1437195415439360003) than the same site built with the most popular React web framework. But don't take our word for it: watch Astro's performance leave Ryan Carniato (creator of Solid.js and Marko) [speechless](https://youtu.be/2ZEMb_H-LYE?t=8163).
+---
 
-## Easy to use
-
-**Astro's goal is to be accessible to every web developer.** Astro was designed to feel familiar and approachable regardless of skill level or past experience with web development.
-
-We started by making sure that you could use any favorite UI component languages that you already know. React, Preact, Svelte, Vue, Solid, Lit, and several others are all supported for creating new UI components in an Astro project.
-
-We also wanted to make sure that Astro had a great built-in component language as well. To do that, we created our own `.astro` UI language. It's heavily influenced by HTML: any valid snippet of HTML is already a valid Astro component! But it also combines some of our favorite features borrowed from other component languages like JSX expressions (React) and CSS scoping by default (Svelte and Vue). This closeness to HTML also makes it easier to use progressive enhancement and common accessibility patterns without any overhead.
-
-Astro was designed to be less complex than other UI frameworks and languages. One big reason for this is that Astro was designed to render on the server, not in the browser. That means that you don't need to worry about: hooks (React), stale closures (also React), refs (Vue), observables (Svelte), atoms, selectors, reactions, or derivations. There is no reactivity on the server, so all of that complexity melts away.
-
-One of our favorite sayings is: **opt-in to complexity.** We designed Astro to remove as much "required complexity" as possible from the developer experience, especially as you onboard for the first time. You can build a "Hello World" example website in Astro with just HTML and CSS. Then, when you need to build something more powerful, you can incrementally reach for new features and APIs as you go.
-
-## Fully-featured, but flexible
-
-**Astro is an all-in-one web framework that comes with everything you need to build a website.** Astro includes a component syntax, file-based routing, asset handling, a build process, bundling, optimizations, data-fetching, and more. You can build great websites without ever reaching outside of Astro's core feature set.
-
-If you need more control, you can extend Astro with over [100+ integrations](https://astro.build/integrations/) like [React](https://www.npmjs.com/package/@astrojs/react), [Svelte](https://www.npmjs.com/package/@astrojs/svelte), [Vue](https://www.npmjs.com/package/@astrojs/vue), [Tailwind CSS](https://www.npmjs.com/package/@astrojs/tailwind), [MDX](https://www.npmjs.com/package/@astrojs/mdx), and more. [Connect your favorite CMS](/en/guides/cms/) or [deploy to your favorite host](/en/guides/deploy/) with just a single command.
-
-Astro is UI-agnostic, meaning you can **Bring Your Own UI Framework (BYOF)**. React, Preact, Solid, Svelte, Vue, and Lit are all officially supported in Astro. You can even mix and match different frameworks on the same page, making future migrations easier and preventing project lock-in to a single framework.
+**🚀 Ready to join the future?**  
+DM the Wizard of Hahz[@HAHZNFT](https://t.me/hahznft) or us from your dispensary on TikTok **[@ZAZAW3W](https://tiktok.com/@zazaw3w)**.  
