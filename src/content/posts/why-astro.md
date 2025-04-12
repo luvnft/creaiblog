@@ -10,7 +10,7 @@ tags:
   - AR
   - Blockchain
 pubDate: 2025-04-06
-cover: https://i.imgur.com/yctwrW8.jpeg
+cover: https://i.imgur.com/oC820P3.jpeg
 coverAlt: DISPO.SOCIAL Livestream Cannabis Marketing Platform
 author: Wizard of Hahz
 ---
@@ -21,7 +21,8 @@ customers can re-sell in a gamified way.
 ### 🌐 The DISPO.SOCIAL Ecosystem  
 
 - **[A.](https://a.dispo.social)**: The decentralized cannabis social network (powered by Bitcoin/NOSTR)—no gatekeepers, just pure community.  
-- **[TREE.](https://zatree.dispo.social)**: Linktree for the cannabis industry featuring verified dispensaries *d-commerce merch*  and **[ZANIME](hhttps://www.tiktok.com/@zazaw3w/video/7488172004756049182)** influencers. Branded subdomains (EX thejoint.dispo.social).
+- **[ZATREE.](https://zatree.dispo.social)**: Linktree for the cannabis industry featuring verified dispensaries *d-commerce merch*
+- **[ZANIME](hhttps://www.tiktok.com/@zazaw3w/video/7488172004756049182)** influencers. Branded subdomains (EX thejoint.dispo.social).
 - **[ZAP.](https://zap.dispo.social)**: Live dispensary sales mapped via *What3Words* for hyper-local deals.  
 - **[ZATV.](https://zatv.dispo.social)**: TikTok meets cannabis—decentralized short-form video.  
 - **[POLL.](https://poll.dispo)**: Blockchain-powered polls (Aptos) to crowdsource product restocks.  
@@ -30,11 +31,11 @@ customers can re-sell in a gamified way.
 
 ### 🚨 The Problem with Weedmaps  
 
-| Weedmaps Pain Points          | WEEDW3W Solutions                  |
+| Weedmaps Pain Points          | DISPO.SOCIAL Solutions                  |
 |-------------------------------|------------------------------------|
 | ❌ Ineffective foot traffic    | ✅ *Livestream flash sales* with real-time analytics |
 | ❌ Hidden fees & price hikes   | ✅ Transparent *d-commerce merch* on blockchain |
-| ❌ Static listings             | ✅ *Interactive AR campaigns* + SMS/phantom wallet drops |
+| ❌ Static listings             | ✅ *Interactive AR campaigns* + Phantom wallet drops |
 
 ---
 
@@ -45,8 +46,8 @@ customers can re-sell in a gamified way.
 - **Airdrop promo codes** directly to customers—*no emails or SMS needed*.  
 
 #### 📍 **What3Words (W3W)**  
-- Every dispensary gets a **3-word ZADDY** (e.g., `///KEEP.IT.SIMPLE`) to pin products with *3-meter accuracy*.  
-- **Used by**: Mercedes, Domino’s, Walmart, and now **WEEDW3W**.  
+- Every dispensary product gets a unique **3-word ZADDY** (e.g., `///KEEP.IT.SIMPLE`) that allows customers to find indoor merch.  
+- **Used by**: Mercedes, Domino’s, Walmart, and now **DISPO.SOCIAL**.  
 
 ---
 
@@ -60,7 +61,7 @@ customers can re-sell in a gamified way.
 ---
 
 ### 💎 D-Commerce (Digital Merch)  
-- Convert physical merch to **blockchain-backed dMerch** and create a [@TREE.](https://tree.dispo.social) link in bio.  
+- We convert dispensary physical merch to **blockchain-backed dmerch** and then we create a branded [@ZATREE.](https://zatree.dispo.social) link in bio.  
 - Customers buy with crypto (via Phantom) and redeem *IRL*—or trade/resell.  
 - We create short form meme ads branding dispensaries on social media [@ZAZAW3W](https://tiktok.com/@zazaw3w)
 - We run paid ads on Google and social media mapped to a dispensaries ZADDY ///KEEP.IT.SIMPLE
@@ -73,7 +74,7 @@ customers can re-sell in a gamified way.
 |--------------------------|-------------------|----------------------------------|--------------------------|
 | [The Green Solution](https://www.tgscolorado.com) | CO/IL | `///repair.lonely.clash` | BTC, ETH, LTC |
 | [Cannabis & Glass](https://cannabisandglass.com/) | WA | `///nuzzling.fists.benefit` | BTC |
-| [Potify](https://) | CA (Delivery) | `///tunes.buds.deliver` | BTC, ETH, DOGE |
+| [Potify]() | CA (Delivery) | `///tunes.buds.deliver` | BTC, ETH, DOGE |
 | [The Green Cross](https://zatv.weedw3w.com) | SF, CA | `///cape.fries.mugs` | BTC |
 
 ---
