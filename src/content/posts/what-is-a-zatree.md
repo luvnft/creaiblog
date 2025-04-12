@@ -9,7 +9,7 @@ tags:
   - Link-In-Bio
   - DCommerce
 pubDate: 2023-09-06
-cover: https://imgur.com/c074ba56-81df-4038-a293-d4b62aaa8d9d
+cover: https://i.imgur.com/JanSC4w.jpeg
 coverAlt: ZATREE link-in-bio interface showing cannabis products
 author: Wizard of Hahz
 ---
