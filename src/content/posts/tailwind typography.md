@@ -3,7 +3,7 @@ title: What is a DISPO.SOCIAL ZADDY?
 slug: what-is-a-dispo-social-zaddy
 description: Learn about what a DISPO.SOCIAL ZADDY is and how it changed the cannabis marketing industry.
 category:
-  - ZADDY
+  - One
 tags:
   - ADS
   - W3W
