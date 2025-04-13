@@ -31,33 +31,35 @@ author: Wizard of Hahz
 
 Turn dispensary visits into rewarding adventures with our blockchain-powered dice game:
 
-| Roll | Reward                |
-|------|-----------------------|
-| 🎲 1 | 10% OFF               |
-| 🎲 2 | 15% OFF               |
-| 🎲 3 | $5 OFF                |
-| 🎲 4 | MYSTERY PRIZE         |
-| 🎲 5 | BOGO FREE             |
-| 🎲 6 | 20% OFF               |
+| Roll | Reward        |
+| ---- | ------------- |
+| 🎲 1 | 10% OFF       |
+| 🎲 2 | 15% OFF       |
+| 🎲 3 | $5 OFF        |
+| 🎲 4 | MYSTERY PRIZE |
+| 🎲 5 | BOGO FREE     |
+| 🎲 6 | 20% OFF       |
 
 ### How It Works:
+
 1. **Check In** at a ZAP-tagged dispensary livestream dvent.
 2. **Roll Dice** Click on the dice on ZAP.DISPO.SOCIAL claim rewards instantly.
 
 ## Why ZAP. Beats Weedmaps
 
-| Versus          | WEEDMAPS          | DISPO.SOCIAL ZAP               |
-|-----------------|-------------------|--------------------------------|
-| Navigation      | Street addresses  | 3-word ZADDY locations (///KEEP.IT.SIMPLE) |
-| Discounts       | Static coupons    | Gamified DICE rolls            |
-| Verification    | Email signups     | Blockchain wallet              |
-| Event Discovery | Basic listings    | Livestream integration         |
-| Data Ownership  | Platform-owned    | Customer-owned                 |
-| Business        | Profit            | Blockchain Non-profit          |
+| Versus          | WEEDMAPS         | DISPO.SOCIAL ZAP                           |
+| --------------- | ---------------- | ------------------------------------------ |
+| Navigation      | Street addresses | 3-word ZADDY locations (///KEEP.IT.SIMPLE) |
+| Discounts       | Static coupons   | Gamified DICE rolls                        |
+| Verification    | Email signups    | Blockchain wallet                          |
+| Event Discovery | Basic listings   | Livestream integration                     |
+| Data Ownership  | Platform-owned   | Customer-owned                             |
+| Business        | Profit           | Blockchain Non-profit                      |
 
 ## Real-World Success
 
 **The.joint.me Dispensary (Portland,Maine)** saw:
+
 - 300% increase in foot traffic during ZAP events
 - 45% repeat customer rate from DICE players
 - $18,000 in incremental sales from mystery prizes
@@ -69,4 +71,4 @@ Turn dispensary visits into rewarding adventures with our blockchain-powered dic
 3. We go live baby.
 
 > "We went from 0 to 420 customers in 24 hours with our first ZAP livestream"  
-> — *The Grove Dispensary, Los Angeles*
+> — _The Grove Dispensary, Los Angeles_

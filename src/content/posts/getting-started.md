@@ -15,7 +15,7 @@ author: Wizard of Hahz
 
 ## Key Features
 
-- **ZAP.:** ZATV paid ad links are featured on our ZAP 
+- **ZAP.:** ZATV paid ad links are featured on our ZAP
 - **No cannabis content restrictions:** Verified dispensaries & brands can advertise freely.
 - **Ad service:** DISPO.SOCIAL creates ZATV ads as a paid service.
 
@@ -36,19 +36,22 @@ These limitations cripple dispensaries' ability to reach customers effectively -
 DISPO.SOCIAL leverages blockchain technology to bypass traditional advertising barriers through:
 
 ### 1. **Decentralized Content Hosting**
-   - Built on **NOSTR protocol** (uncensorable social media)
-   - No central authority to restrict cannabis content
-   - Permanent, blockchain-verified posts
+
+- Built on **NOSTR protocol** (uncensorable social media)
+- No central authority to restrict cannabis content
+- Permanent, blockchain-verified posts
 
 ### 2. **NFT-Based Verification**
-   - Dispensaries get **verified via NFT badges**
-   - Customers authenticate with **cannabis ID tokens**
-   - Transparent reputation system
+
+- Dispensaries get **verified via NFT badges**
+- Customers authenticate with **cannabis ID tokens**
+- Transparent reputation system
 
 ### 3. **Tokenized Engagement**
-   - Earn **$DISPO memecoin** for participation
-   - Tip creators with crypto
-   - Community-driven content promotion
+
+- Earn **$DISPO memecoin** for participation
+- Tip creators with crypto
+- Community-driven content promotion
 
 ## The Wizard Behind the Magic
 
@@ -75,4 +78,3 @@ Dispensaries using DISPO.SOCIAL report:
 Ready to break free from Web2 advertising restrictions?
 
 [Get Verified Now](#) | [Contact Wizard of Hahz](https://t.me/wizardofhahz)
-

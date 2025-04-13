@@ -5,7 +5,7 @@ description: DISPO.SOCIAL bridges cannabis and consciousness through decentraliz
 category:
   - Three
 tags:
-  - Spiritual 
+  - Spiritual
   - Web3
   - Cannabis
 pubDate: 2023-09-06
@@ -24,20 +24,21 @@ DISPO.SOCIAL serves as a **quantum leap forward** in spiritual healthcare infras
 - 🧠 **Higher learning ecosystems** beyond traditional education
 - 💫 **Vibrationally-aligned tribe** through curated dvents
 
-> "What we watch and the energy of those around us impacts wellness as much as the food we take. Dvents unite local dispensary customers for a higher purpose."  > — *Wizard of Hahz*
+> "What we watch and the energy of those around us impacts wellness as much as the food we take. Dvents unite local dispensary customers for a higher purpose." > — _Wizard of Hahz_
 
 ## The 5D Healthcare Revolution
 
 As humanity transitions into 5D consciousness (2025+), DISPO.SOCIAL addresses critical gaps:
 
 | Traditional Healthcare | DISPO.SOCIAL Spiritual Healthcare |
-|-----------------------|-----------------------------------|
-| Synthetic medications | Plant medicine integration |
-| Isolated treatment    | Tribe healing circles |
-| Corporate-controlled  | Decentralized ownership |
-| Symptom management    | Holistic spiritual education |
+| ---------------------- | --------------------------------- |
+| Synthetic medications  | Plant medicine integration        |
+| Isolated treatment     | Tribe healing circles             |
+| Corporate-controlled   | Decentralized ownership           |
+| Symptom management     | Holistic spiritual education      |
 
 ### Key Innovations:
+
 - **Metaverse Healing Sanctuaries**: 24/7 virtual dispensaries with portals to dcommerce dmerch.
 - **ZAFLUENCER Hosted Dvents**: Micro-communities gathering around fun themed gamified dvents.
 - **ZADDY**: You need a ZADDY to enter a IRL or Metaverse dvent to unlock the door.
@@ -47,8 +48,8 @@ As humanity transitions into 5D consciousness (2025+), DISPO.SOCIAL addresses cr
 Our **[LUV NFT FUN](https://fun.luvnft.com/courses)** partnership delivers:
 
 ### Cannabis 101 Curriculum
-1. **Coming Soon**  
+
+1. **Coming Soon**
 
 > "We're not just selling cannabis—we're midwifing the rebirth of sacred plant wisdom in the digital age."  
-> — *Wizard of Hahz at ETHDenver 2025*
-
+> — _Wizard of Hahz at ETHDenver 2025_
