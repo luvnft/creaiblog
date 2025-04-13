@@ -9,7 +9,7 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://verse-astro.vercel.app",
+  site: "https://blog.dispo.social",
   trailingSlash: "always",
   prefetch: {
     prefetchAll: true,
@@ -21,6 +21,7 @@ export default defineConfig({
       {
         protocol: "https",
         hostname: "**.unsplash.com",
+        hostname: "i.imgur.com",
       },
     ],
   },
