@@ -1,5 +1,5 @@
 ---
-title: ZAVERSE Metaverse DVENTS: The Future of Cannabis Community Building
+title: ZAVERSE Metaverse DVENTS The Future of Cannabis Community Building
 slug: zaverse-metaverse-dvents
 description: Discover how ZAVERSE bridges physical dispensaries with immersive metaverse experiences - driving 3X more engagement than traditional marketing
 category:
