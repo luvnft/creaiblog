@@ -1,5 +1,5 @@
 ---
-title: DISPO.SOCIAL Blog Service: Decentralized SEO for Dispensaries
+title: DISPO SOCIAL Blog Service - Decentralized SEO for Dispensaries
 slug: disposocial-blog-service
 description: Overcome platform restrictions with our blockchain-powered blog service – persistent, ranking dispensary content.
 category:
