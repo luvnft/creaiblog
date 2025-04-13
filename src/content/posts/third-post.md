@@ -1,25 +1,70 @@
 ---
-title: Third post
-slug: third-post
-description: Lorem ipsum dolor sit amet.
+title: DISPO.SOCIAL Drops: The Ultimate Product Launch System for Dispensaries
+slug: disposocial-drops
+description: Drive 3X more sales with gamified NFT drops tied to physical merch - the Web3 solution for dispensary product launches
 category:
   - One
 tags:
-  - Tailwind
-  - Astro
-  - Morbi
+  - Drops
+  - ZADDY
+  - Dmerch
+  - SEO
+  - Cannabis Marketing
 pubDate: 2023-09-05
-cover: https://images.unsplash.com/photo-1447600514716-ca6f3974c346?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODV8fGJsYWNrfGVufDB8MHwwfHx8Mg%3D%3D
-coverAlt: AstroVerse-Third post
-author: VV
+cover: https://i.imgur.com/UfJsOtv.jpeg
+coverAlt: Dispensary hosting a DISPO.SOCIAL NFT product drop event
+author: Wizard of Hahz
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+# Revolutionizing Dispensary Product Launches with Dcommerce Drops
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+## Why Traditional Drops Fail Cannabis Brands
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+🛑 **Limited Reach**: 68% of dispensary product launches never break even  
+💸 **No Secondary Market**: 100% of merch value disappears after purchase  
+📍 **Location Confusion**: 45% of customers can't find limited drops  
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+> "We left $28,000 on the table with our last launch - until we switched to DISPO.SOCIAL Drops"  
+> — *Green Dragon Dispensary, Denver*
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+## How Our DCommerce Drops Work
+
+DISPO.SOCIAL gamifies dispensary product drops by linking digital merchandise ("dmerch") to precise What3Words locations, termed "ZADDYs," for simplified in-store redemption. These drops incentivize customers to become "ZAFLUENCERS," who can resell dmerch as LUV NFTs via blockchain technology.
+
+For example, a dispensary can launch a DISPO.SOCIAL Drop for a limited-edition product, offering it at 50% below retail price in cryptocurrency. This encourages immediate resale, with only one buyer eligible to claim the physical product in-store. This system allows dispensaries to back unique products with LUV NFTs, each tied to a specific What3Words ZADDY, enabling buyers to locate the physical merchandise. Customers can also resell the dmerch for a refund before claiming the physical item.
+
+DISPO.SOCIAL collaborates with local micro-influencers and DJs to host these dispensary drops, fostering social gatherings where customers can trade, buy, and sell ZADDYs, facilitating networking and community building.
+
+To promote livestream dvent drops, DISPO.SOCIAL utilizes paid ad campaigns across TikTok, Instagram, Facebook, and Google. The Wizard of Hahz's Google certification ensures that DISPO.SOCIAL's ads are less likely to be flagged compared to agencies without certified staff managing dispensary accounts.
+
+## Real-World Results
+
+Sunset Dispensary (Portland) Launch:
+
+🚀 420% more attendees than traditional launch
+
+💰 $15,000 in secondary market trading
+
+📈 #1 Google ranking for "limited edition prerolls"
+
+## The Complete Drop Ecosystem For Dispensaries:
+
+🏷️ NFT-Backed Inventory: Every product has a digital twin
+
+🎤 Influencer Collabs: Our ZAFLUENCER network promotes your drop
+
+📍 3-Word Navigation: Customers find drops with your ///KEEP.IT.SIMPLE dmerch drop locations
+
+## For Customers:
+
+🔄 Resell Value: Flip unused ZADDY claims
+
+🎁 Exclusive Perks: ZADDY holders get VIP treatment like access to IRL and metaverse dvents
+
+🕵️ Social Media AR Effect Treasure Hunts: Find hidden dmerch in-store
+
+## How to get in the game
+
+1. Go see the Wizard of Hahz https://t.me/hahznft to create a livestream show
+2. Announce a drop date to your customers with a branded reel AR Effect we create
+3. We go live with a metavese or IRL event
