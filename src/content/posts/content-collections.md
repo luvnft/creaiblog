@@ -27,7 +27,7 @@ author: Wizard of Hahz
 > "Our High Guy campaign got 50,000 impressions for just $420 - something impossible with banned traditional ads"  
 > — *Sunset Dispensary, Portland*
 
-![High Guy meme example with cannabis products](https://i.imgur.com/4jedg1w.jpeg)  
+![High Guy meme example with cannabis products](https://i.imgur.com/hoKEvUo.jpeg)  
 *Branded High Guy NFT ad driving traffic to a dispensary's ZADDY location*
 
 ## The High Guy Advantage
