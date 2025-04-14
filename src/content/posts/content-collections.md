@@ -1,5 +1,5 @@
 ---
-title: HIGH GUY Ad Campaigns: The Viral Cannabis Marketing Revolution
+title: HIGH GUY Ad Campaigns The Viral Cannabis Marketing Revolution
 slug: disposocial-high-guy
 description: Discover how blockchain-powered High Guy meme campaigns drive 10X more engagement than traditional cannabis advertising
 category:
