@@ -1,23 +1,106 @@
 ---
-title: Content Collections
-slug: content-collections
-description: Content collections help organize your Markdown and type-check your frontmatter with schemas.
+title: HIGH GUY Ad Campaigns: The Viral Cannabis Marketing Revolution
+slug: disposocial-high-guy
+description: Discover how blockchain-powered High Guy meme campaigns drive 10X more engagement than traditional cannabis advertising
 category:
-  - One
+  - Cannabis Marketing
 tags:
-  - Tailwind
-  - Astro
-  - Jamstack
+  - High Guy
+  - Meme Marketing
+  - NFT Advertising
+  - Web3
+  - Cannabis SEO
 pubDate: 2023-09-02
-cover: https://images.unsplash.com/photo-1516724562728-afc824a36e84?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fGJsYWNrfGVufDB8MHwwfHx8Mg%3D%3D
-coverAlt: AstroVerse-Content Collections
-author: VV
+cover: https://i.imgur.com/4jedg1w.jpeg
+coverAlt: High Guy meme character promoting cannabis products via NFT ads
+author: Wizard of Hahz
 ---
 
-**Content collections** are the best way to manage and author content in any Astro project. Collections help to organize your documents, validate your frontmatter, and provide automatic TypeScript type-safety for all of your content.
+# HIGH GUY: The DIY Blockchain Ad Solution Cannabis Needs
 
-## What are Content Collections?
+## Why Meme Marketing Dominates Cannabis
 
-A **content collection** is any top-level directory inside the reserved `src/content` project directory, such as `src/content/newsletter` and `src/content/authors`. Only content collections are allowed inside the `src/content` directory. This directory cannot be used for anything else.
+📈 **72% higher engagement** than traditional dispensary ads  
+💰 **1/10th the cost** of Google/Facebook campaigns  
+🔗 **Built-in virality** through shareable NFT assets  
 
-A **collection entry** is any piece of content stored inside of your content collection directory. Entries can use content authoring formats including Markdown (`.md`) and MDX (`.mdx` using the [MDX integration](/en/guides/integrations-guide/mdx/)) or as data formats including YAML (`.yaml`) and JSON (`.json`). We recommend using a consistent naming scheme (lower-case, dashes instead of spaces) for your files to make it easier to find and organize your content, but this is not required. You can also [exclude entries from being built](/en/core-concepts/routing/#excluding-pages) by prefixing the filename with an underscore (\_).
+> "Our High Guy campaign got 50,000 impressions for just $420 - something impossible with banned traditional ads"  
+> — *Sunset Dispensary, Portland*
+
+![High Guy meme example with cannabis products](https://i.imgur.com/4jedg1w.jpeg)  
+*Branded High Guy NFT ad driving traffic to a dispensary's ZADDY location*
+
+## The High Guy Advantage
+
+### For Dispensaries:
+- 🏷️ **Turn products into memes**: Mint NFT versions of your merch
+- 🚀 **Built-in distribution**: Shared across ZATV, BLOG, and @ZAZAW3W
+- 💰 **Resale royalties**: Earn 10% when fans trade your ads
+
+### For Brands:
+- 🌱 **Authentic engagement**: Memes outperform polished ads 3:1
+- 🔗 **Trackable results**: On-chain analytics show exact ROI
+- 🎮 **Gamification**: Customers collect/trade your ads
+
+## How It Works: High Guy Meme Magic
+
+1. **Tokenize Your Merch**  
+   - Physical products → NFT "High Guy" versions  
+   - Limited editions create scarcity  
+
+2. **Launch Campaign**  
+   - DISPO.SOCIAL promotes across:  
+     - ZATV (cannabis TikTok)  
+     - 420-friendly blogs  
+     - @ZAZAW3W Twitter community  
+
+3. **Go Viral**  
+   - Fans trade your meme NFTs  
+   - Each trade = free advertising  
+
+
+# 🚀 Limited-Time Offer
+
+✨ **FREE High Guy Tokenization** (Normally $420/month)  
+
+🎯 **First 50 dispensaries only**  
+
+📦 **Includes:**  
+🖼️ 3 High Guy NFT designs  
+📢 Social media promotion  
+💸 10% resale royalties  
+
+---
+
+# 🏁 Get Started in 3 Easy Steps
+
+1️⃣ **Verify Your Business**  
+📲 [Contact @WizardOfHahz on Telegram](https://t.me/hahznft)  
+
+2️⃣ **Submit Products**  
+📸 Send images of merch to tokenize  
+
+3️⃣ **Launch Campaign**  
+🛠️ We handle all minting and promotion  
+
+> "High Guy campaigns solved our #1 problem - getting around ad bans while staying compliant"  
+> — *Green Dragon Brands*  
+
+---
+
+# 💡 Why This Changes Everything for Cannabis Marketing
+
+🔓 **Bypasses Platform Bans**  
+🛡️ NFT ads can't be shadowbanned like traditional content  
+
+💎 **Creates Permanent Assets**  
+📈 Your ads appreciate as collectibles  
+
+🤝 **Builds True Customer Tribe**  
+🔄 Customers become dispensary brand ambassadors by trading  
+
+📊 **Proves ROI**  
+🔗 Blockchain shows exact engagement metrics  
+
+🎯 **Bonus Benefit:**  
+💰 Earn ongoing royalties from secondary sales  
