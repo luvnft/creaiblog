@@ -1,17 +1,17 @@
 ---
-title: Best Atlantic City Dispensaries - Your Ultimate Cannabis Guide  
-slug: best-atlantic-city-dispensaries-cannabis-guide  
-description: Discover the top-rated cannabis dispensaries in Atlantic City, from luxury picks to budget-friendly options. Perfect for tourists and locals!  
-category: Cannabis & Travel  
-tags:  
-  - Cannabis  
-  - Atlantic City  
-  - Dispensaries  
-  - New Jersey  
-pubDate: 2023-09-01  
-cover: [https://i.imgur.com/plxMw55.jpeg]
-coverAlt: Top cannabis dispensaries in Atlantic City  
-author: Wizard of Hahz  
+title: Best Atlantic City Dispensaries - Your Ultimate Cannabis Guide
+slug: best-atlantic-city-dispensaries-cannabis-guide
+description: Discover the top-rated cannabis dispensaries in Atlantic City, from luxury picks to budget-friendly options. Perfect for tourists and locals!
+category: ["Cannabis & Travel"] # Corrected: array of strings
+tags:
+  - Cannabis
+  - Atlantic City
+  - Dispensaries
+  - New Jersey
+pubDate: 2023-09-01
+cover: "https://i.imgur.com/plxMw55.jpeg" # Corrected: single string
+coverAlt: Top cannabis dispensaries in Atlantic City
+author: Wizard of Hahz
 ---
 
 Atlantic City is a growing hotspot for cannabis lovers, with dispensaries offering **premium flower, concentrates, and edibles**. But with so many choices, where should you go?  
