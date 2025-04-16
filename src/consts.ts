@@ -9,7 +9,7 @@ export const SITE_DESCRIPTION = "Livestream dispensary cannibis and spiritual so
 // Tags Page Metadata, src/pages/tags/index.astro
 export const Tags_TITLE = "DISPO.SOCIAL BLOG";
 export const Tags_DESCRIPTION =
-  "Livestream dispensary cannibis and spiritual social  dvents.";
+  "Livestream dispensary cannabis and spiritual social dvents.";
 
 // Tags Page Metadata, src/pages/tags/[tag]/[page].astro
 export function getTagMetadata(tag: string) {
