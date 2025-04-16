@@ -2,7 +2,7 @@
 title: Best Atlantic City Dispensaries - Your Ultimate Cannabis Guide
 slug: best-atlantic-city-dispensaries-cannabis-guide
 description: Discover the top-rated cannabis dispensaries in Atlantic City, from luxury picks to budget-friendly options. Perfect for tourists and locals!
-category: ["Cannabis & Travel"] # Corrected: array of strings
+category: Two 
 tags:
   - Cannabis
   - Atlantic City
