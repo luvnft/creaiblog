@@ -29,9 +29,9 @@ export function getCategoryMetadata(category: string) {
 
 // Header Links, src/components/Header.astro
 export const HeaderLinks = [
-  { href: "/category/One/1/", title: "⚡ Z🅰️DDY" },
-  { href: "/category/Two/1/", title: "🗺 ZAP" },
-  { href: "/category/Three/1/", title: "🌴 ZATREE" },
+  { href: "/category/One/1/", title: "🧙🏽‍♂️ WIZARD OF HAHZ " },
+  { href: "/category/Two/1/", title: "🧠 AI" },
+  { href: "/category/Three/1/", title: "🗺 MAP" },
 ];
 
 // Footer Links, src/components/Footer.astro
