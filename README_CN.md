@@ -93,19 +93,19 @@ pnpm run dev
 // 您可以使用 `import` 关键字从站点的任何位置导入此数据。
 
 // 基本页面元数据, src/layouts/BaseLayout.astro
-export const BRAND_NAME = "DISPO.SOCIAL BLOG";
-export const SITE_TITLE = "DISPO.SOCIAL BLOG";
+export const BRAND_NAME = "CREAI.DIGITAL BLOG";
+export const SITE_TITLE = "CREAI.DIGITAL BLOG";
 export const SITE_DESCRIPTION = "一款用于视觉叙事的Astro主题";
 
 // 标签页面元数据, src/pages/tags/index.astro
-export const Tags_TITLE = "DISPO.SOCIAL BLOG - 所有标签";
+export const Tags_TITLE = "CREAI.DIGITAL BLOG - 所有标签";
 export const Tags_DESCRIPTION =
-  "DISPO.SOCIAL BLOG - 所有标签以及与每个标签相关的文章数量";
+  "CREAI.DIGITAL BLOG - 所有标签以及与每个标签相关的文章数量";
 
 // 标签页面元数据, src/pages/tags/[tag]/[page].astro
 export function getTagMetadata(tag: string) {
   return {
-    title: `DISPO.SOCIAL BLOG '${tag}' 标签的所有文章`,
+    title: `CREAI.DIGITAL BLOG '${tag}' 标签的所有文章`,
     description: `探索有关${tag}的文章，了解不同的观点和深度分析。`,
   };
 }

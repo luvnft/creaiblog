@@ -2,12 +2,12 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // Base Page Metadata, src/layouts/BaseLayout.astro
-export const BRAND_NAME = "DISPO.SOCIAL BLOG";
-export const SITE_TITLE = "DISPO.SOCIAL BLOG";
+export const BRAND_NAME = "CREAI.DIGITAL BLOG";
+export const SITE_TITLE = "CREAI.DIGITAL BLOG";
 export const SITE_DESCRIPTION = "Livestream dispensary cannibis and spiritual social  dvents.";
 
 // Tags Page Metadata, src/pages/tags/index.astro
-export const Tags_TITLE = "DISPO.SOCIAL BLOG";
+export const Tags_TITLE = "CREAI.DIGITAL BLOG";
 export const Tags_DESCRIPTION =
   "Livestream dispensary cannabis and spiritual social dvents.";
 
