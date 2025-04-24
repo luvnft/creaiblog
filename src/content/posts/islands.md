@@ -42,12 +42,6 @@ We transformed this car wash listing image into a 5-second HD video:
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@creaidigital/video/7496662638932299038" data-video-id="7496662638932299038" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@creaidigital" href="https://www.tiktok.com/@creaidigital">@creaidigital</a> <p>From static image to engaging CRE video in 24 hours 🚀 <a title="commercialrealestate" target="_blank" href="https://www.tiktok.com/tag/commercialrealestate">#CommercialRealEstate</a> <a title="propertmarketing" target="_blank" href="https://www.tiktok.com/tag/propertmarketing">#PropertyMarketing</a></p> <a target="_blank" title="♬ original sound - CREAI.DIGITAL" href="https://www.tiktok.com/music/original-sound-7496662698374867758">♬ original sound - CREAI.DIGITAL</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
-### Pricing Tiers
-| Package | Features | Price/Mo |
-|---------|----------|----------|
-| Bronze | 1 video/month + basic edits | $297 |
-| Silver | 3 videos + premium templates | $697 |
-| Gold | Unlimited videos + AI scriptwriting | $1,497 |
 
 ## TV.CREAI.DIGITAL: The "YouTube for CRE"
 
