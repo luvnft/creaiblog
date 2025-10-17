@@ -2,41 +2,41 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // Base Page Metadata, src/layouts/BaseLayout.astro
-export const BRAND_NAME = "CREAI.DIGITAL BLOG";
-export const SITE_TITLE = "CREAI.DIGITAL BLOG";
-export const SITE_DESCRIPTION = "Livestream dispensary cannibis and spiritual social  dvents.";
+export const BRAND_NAME = "HAHZ.LIVE BLOG";
+export const SITE_TITLE = "HAHZ.LIVE BLOG";
+export const SITE_DESCRIPTION = "Daily tech, spiritual and digital RWA real estate content.";
 
 // Tags Page Metadata, src/pages/tags/index.astro
-export const Tags_TITLE = "CREAI.DIGITAL BLOG";
+export const Tags_TITLE = "HAHZ.LIVE BLOG";
 export const Tags_DESCRIPTION =
-  "Livestream dispensary cannabis and spiritual social dvents.";
+  "Daily tech, spiritual and digital RWA real estate content.";
 
 // Tags Page Metadata, src/pages/tags/[tag]/[page].astro
 export function getTagMetadata(tag: string) {
   return {
-    title: `All articles on '${tag}' tag in AstroVerse`,
-    description: `Explore articles about ${tag} for different perspectives and in-depth analysis.`,
+    title: `Blockchain thought leader the Wizard of HAHZ educates readers on the new spiritual digital economy.`,
+    description: `Daily tech, spiritual and digital RWA real estate content.`,
   };
 }
 
 // Category Page Metadata, src/pages/category/[category]/[page].astro
 export function getCategoryMetadata(category: string) {
   return {
-    title: `All articles in '${category}' category in AstroVerse`,
-    description: `Browse all articles under the ${category} category in AstroVerse`,
+    title: `All articles in '${category}' category in HAHZ.LIVE`,
+    description: `Browse all articles under the ${category} category in HAHZ.LIVE`,
   };
 }
 
 // Header Links, src/components/Header.astro
 export const HeaderLinks = [
-  { href: "/category/One/1/", title: "🧙🏽‍♂️ WIZARD OF HAHZ " },
-  { href: "/category/Two/1/", title: "🧠 AI" },
-  { href: "/category/Three/1/", title: "🗺 MAP" },
+  { href: "/category/One/1/", title: "🧙🏽‍♂️ SPIRITUAL " },
+  { href: "/category/Two/1/", title: "🧠 TECH" },
+  { href: "/category/Three/1/", title: "🗺 REAL ESTATE" },
 ];
 
 // Footer Links, src/components/Footer.astro
 export const FooterLinks = [
-  { href: "/posts/why-astro/", title: "Astro" },
+  { href: "/posts/what-is-stablecoin-hahz-live/", title: "TECH" },
   { href: "/posts/tailwind-typography/", title: "Tailwind" },
   { href: "/tags/", title: "Tags" },
 ];
@@ -45,7 +45,7 @@ export const FooterLinks = [
 export const SocialLinks = [
   { href: "/rss.xml", icon: "tabler:rss", label: "RSS" },
   {
-    href: "https://twitter.com/weedw3w",
+    href: "https://twitter.com/wizardofhahz",
     icon: "tabler:brand-twitter",
     label: "Twitter",
   },

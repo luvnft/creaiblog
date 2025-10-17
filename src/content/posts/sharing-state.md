@@ -3,7 +3,7 @@ title: DISPO.SOCIAL - The Future of Spiritual Healthcare in Cannabis
 slug: disposocial-spiritual-healthcare
 description: DISPO.SOCIAL bridges cannabis and consciousness through decentralized spiritual healthcare marketing and education
 category:
-  - Three
+  - One
 tags:
   - Spiritual
   - Web3

@@ -33,7 +33,7 @@ Commercial Real Estate faces a **digital engagement crisis**:
 1. **Subscribe**: Visit [CREAI.DIGITAL](https://creai.digital) and choose a package
 2. **AI Magic**: Email us your property images and we convert them into cinematic videos (24-48hr turnaround)
 3. **Distribute** across:
-   - CREAI.DIGITAL blog post
+   - HAHZ.LIVE post
    - LinkedIn/TikTok/Instagram
    - [TV.CREAI.DIGITAL](https://tv.creai.digital) platform
 

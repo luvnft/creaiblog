@@ -1,291 +1,136 @@
 ---
-title: Layouts
-slug: layouts
-description: An intro to layouts, a type of Astro component that is shared between pages for common layouts.
+title: The Great Stablecoin Charter Race: Why Every Major Player Wants a US Bank License 🏦
+slug: stablecoin-issuers-race-us-bank-charters-stripe-bridge
+description: Stripe's Bridge joins Circle, Ripple, Paxos and Coinbase in the race for federal trust bank charters as the GENIUS Act reshapes crypto regulation.
 category:
-  - One
+  - Two
 tags:
-  - Tailwind
-  - Astro
-  - Jamstack
-pubDate: 2023-09-01
-cover: https://images.unsplash.com/photo-1517241034903-9a4c3ab12f00?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTh8fGJsYWNrfGVufDB8MHwwfHx8Mg%3D%3D
-coverAlt: AstroVerse-Aliases
-author: VV
+  - Stablecoins
+  - Banking Charters
+  - GENIUS Act
+  - Stripe
+  - Circle
+pubDate: 2024-10-01
+cover: https://images.unsplash.com/photo-1601597111151-718645ad2eb4?w=1960&h=1102&auto=format&fit=crop&q=80
+coverAlt: Modern bank building with digital cryptocurrency symbols overlay
+author: Wizard of Hahz
 ---
 
-**Layouts** are [Astro components](/en/core-concepts/astro-components/) used to provide a reusable UI structure, such as a page template.
+## The Crypto Gold Rush for Banking Licenses is On! 🚀
 
-We conventionally use the term "layout" for Astro components that provide common UI elements shared across pages such as headers, navigation bars, and footers. A typical Astro layout component provides [Astro, Markdown or MDX pages](/en/core-concepts/astro-pages/) with:
+Move over, wild west days of crypto - the era of federal banking charters has arrived, and every major stablecoin player is rushing to get theirs. In the latest power move, **Stripe's stablecoin arm Bridge** has officially joined the queue at the Office of the Comptroller of Currency (OCC), seeking approval for a national trust bank charter.
 
-- a **page shell** (`<html>`, `<head>` and `<body>` tags)
-- a [**`<slot />`**](/en/core-concepts/astro-components/#slots) to specify where individual page content should be injected.
+But they're not alone in this race. The starting gun was fired with the passage of the **GENIUS Act**, and now we're witnessing a full-blown sprint toward federal legitimacy.
 
-But, there is nothing special about a layout component! They can [accept props](/en/core-concepts/astro-components/#component-props) and [import and use other components](/en/core-concepts/astro-components/#component-structure) like any other Astro component. They can include [UI frameworks components](/en/core-concepts/framework-components/) and [client-side scripts](/en/guides/client-side-scripts/). They do not even have to provide a full page shell, and can instead be used as partial UI templates.
+## Who's in the Running? The Contenders Line Up 🏃‍♂️
 
-Layout components are commonly placed in a `src/layouts` directory in your project for organization, but this is not a requirement; you can choose to place them anywhere in your project. You can even colocate layout components alongside your pages by [prefixing the layout names with `_`](/en/core-concepts/routing/#excluding-pages).
+The charter race currently features some heavy hitters:
 
-## Sample Layout
+### 🥇 **Circle** - The Early Mover
+- Filed for national trust license in July
+- Seeking OCC oversight for USDC reserves
+- Currently the second-largest stablecoin issuer
 
-```astro "<slot />"
----
-// src/layouts/MySiteLayout.astro
-import BaseHead from "../components/BaseHead.astro";
-import Footer from "../components/Footer.astro";
-const { title } = Astro.props;
----
+### 🥈 **Ripple** - The Strategic Player
+- Applied shortly after Circle
+- Opting for dual federal and state oversight
+- Positioned for global payments infrastructure
 
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <BaseHead title={title} />
-  </head>
-  <body>
-    <nav>
-      <a href="#">Home</a>
-      <a href="#">Posts</a>
-      <a href="#">Contact</a>
-    </nav>
-    <h1>{title}</h1>
-    <article>
-      <slot />
-      <!-- your content is injected here -->
-    </article>
-    <Footer />
-  </body>
-</html>
-```
+### 🥉 **Paxos** - The Established Regulated Player
+- Applied in August after state-level success
+- Already operates with NYDFS approval
+- Seeking national expansion beyond New York
 
-```astro title="src/pages/index.astro"
----
-import MySiteLayout from "../layouts/MySiteLayout.astro";
----
+### 🏅 **Coinbase** - The Exchange Giant
+- Announced application earlier this month
+- Looking to streamline its stablecoin operations
+- Massive existing user base advantage
 
-<MySiteLayout title="Home Page">
-  <p>My page content, wrapped in a layout!</p>
-</MySiteLayout>
-```
+### 🎯 **Bridge (Stripe)** - The New Contender
+- Fresh $1.1 billion acquisition by Stripe
+- Applied under GENIUS Act framework
+- Backed by Stripe's global merchant network
 
-📚 Learn more about [slots](/en/core-concepts/astro-components/#slots).
+## What's the GENIUS Act Actually Do? 🤔
 
-## Markdown/MDX Layouts
+The **Guiding and Establishing National Innovation for U.S. Stablecoins Act** (yes, that's GENIUS) isn't just a clever name - it's creating an entirely new regulatory category.
 
-Page layouts are especially useful for [Markdown and MDX pages](/en/guides/markdown-content/#markdown-and-mdx-pages) which otherwise would not have any page formatting.
+**Key Requirements:**
+- **100% Reserves**: Every stablecoin must be backed by cash or Treasuries
+- **Monthly Disclosures**: Complete transparency on reserves and operations
+- **Redemption Priority**: Token holders get first dibs if things go sideways
+- **Federal Supervision**: OCC directly oversees non-bank issuers
 
-Astro provides a special `layout` frontmatter property to specify which `.astro` component to use as the page layout.
+## Why Everyone Wants That Federal Stamp of Approval 🎯
 
-```markdown title="src/pages/page.md" {2}
----
-layout: ../layouts/BaseLayout.astro
-title: "Hello, World!"
-author: "Matthew Phillips"
-date: "09 Aug 2022"
----
+### The State License Headache 😫
+Currently, most stablecoin operators navigate a patchwork of **state-level money transmitter licenses**. Imagine having to get separate driver's licenses for every state you want to drive through - that's the current regulatory reality.
 
-All frontmatter properties are available as props to an Astro layout component.
+### The Federal Charter Advantage 🌟
+- **Unified Framework**: One set of rules across all 50 states
+- **Regulatory Certainty**: Clear rules of the road for operations
+- **Investor Confidence**: Federal oversight = institutional trust
+- **Global Competitiveness**: US-regulated stablecoins can compete internationally
 
-The `layout` property is the only special one provided by Astro.
+## Bridge's Big Bet: Tokenizing Trillions 💰
 
-You can use it in both Markdown and MDX files located within `src/pages/`.
-```
+Stripe's $1.1 billion acquisition of Bridge wasn't just a casual investment - it was a strategic move to position themselves at the center of the next wave of digital payments.
 
-A typical layout for Markdown or MDX pages includes:
+**Bridge's vision?** "To tokenize trillions of dollars" according to co-founder Zack Abrams. With Stripe's existing merchant network and Bridge's stablecoin infrastructure, they could potentially onboard millions of businesses to blockchain-based payments overnight.
 
-1. The `frontmatter` prop to access the Markdown or MDX page's frontmatter and other data.
-2. A default [`<slot />`](/en/core-concepts/astro-components/#slots) to indicate where the page's Markdown/MDX content should be rendered.
+## What This Means for the Crypto Ecosystem 🌐
 
-```astro /(?<!//.*){?frontmatter(?:.\w+)?}?/ "<slot />"
----
-// src/layouts/BaseLayout.astro
-// 1. The frontmatter prop gives access to frontmatter and other data
-const { frontmatter } = Astro.props;
----
+### For Traditional Finance 🏦
+- **Legitimate Competition**: Regulated stablecoins could challenge traditional payment rails
+- **Institutional Adoption**: Banks and funds get compliant crypto exposure
+- **Mainstream Integration**: Your favorite apps might soon have built-in crypto payments
 
-<html>
-  <head>
-    <!-- Add other Head elements here, like styles and meta tags. -->
-    <title>{frontmatter.title}</title>
-  </head>
-  <body>
-    <!-- Add other UI components here, like common headers and footers. -->
-    <h1>{frontmatter.title} by {frontmatter.author}</h1>
-    <!-- 2. Rendered HTML will be passed into the default slot. -->
-    <slot />
-    <p>Written on: {frontmatter.date}</p>
-  </body>
-</html>
-```
+### For DeFi Platforms 🔗
+As one industry expert told Decrypt: "A federally chartered stablecoin bank under the GENIUS Act will set a precedent for interoperability between on-chain liquidity and off-chain oversight."
 
-You can set a layout’s [`Props` type](/en/guides/typescript/#component-props) with the `MarkdownLayoutProps` or `MDXLayoutProps` helper:
+Translation: DeFi could finally get the regulatory clarity it needs to go truly mainstream without sacrificing its decentralized nature.
 
-```astro title="src/layouts/BaseLayout.astro" ins={2,4-9}
----
-import type { MarkdownLayoutProps } from "astro";
+## The Big Picture: America's Digital Dollar Infrastructure 🇺🇸
 
-type Props = MarkdownLayoutProps<{
-  // Define frontmatter props here
-  title: string;
-  author: string;
-  date: string;
-}>;
+This isn't just about individual companies - it's about the United States positioning itself in the global digital currency race. While other countries develop CBDCs (Central Bank Digital Currencies), the US is taking a different approach: **regulated private innovation with federal oversight.**
 
-// Now, `frontmatter`, `url`, and other Markdown layout properties
-// are accessible with type safety
-const { frontmatter, url } = Astro.props;
+The outcome of these charter applications could determine whether the US leads or follows in the next generation of global payments.
+
+## What's Next in the Charter Race? 🏁
+
+The OCC now faces multiple high-profile applications, each with their own merits and complexities. The approval process will likely:
+
+1. **Set Precedents**: First approvals will establish the regulatory template
+2. **Create Standards**: Compliance requirements will become industry norms
+3. **Shape Competition**: Early movers gain significant advantages
+4. **Influence Legislation**: Real-world implementation could guide future laws
+
+## The Bottom Line 💡
+
+The race for stablecoin bank charters represents a fundamental shift from crypto's "ask for forgiveness, not permission" era to a new paradigm of "work within the system to change the system."
+
+As one industry observer noted, Bridge's move could be seen as "a complement, not a displacement" to existing models. We're building toward "a layered system where regulated institutions and decentralized protocols can safely co-exist."
+
+The question is no longer **if** stablecoins will be federally regulated, but **which companies** will be leading that regulated future.
+
+*Watch this space - the charter approvals are coming, and they'll reshape the crypto landscape forever.* 🚀
+
 ---
 
-<html>
-  <head>
-    <link rel="canonical" href={new URL(url, Astro.site).pathname} />
-    <title>{frontmatter.title}</title>
-  </head>
-  <body>
-    <h1>{frontmatter.title} by {frontmatter.author}</h1>
-    <slot />
-    <p>Written on: {frontmatter.date}</p>
-  </body>
-</html>
-```
+## Want to Stay Ahead of the Crypto Regulation Curve? 🎯
 
-### Markdown Layout Props
+**Don't just read about the future of finance - experience it LIVE with HAHZ.LIVE!**
 
-A Markdown/MDX layout will have access to the following information via `Astro.props`:
+While everyone else is reporting on yesterday's news, **HAHZ.LIVE subscribers get:**
 
-- **`file`** - The absolute path of this file (e.g. `/home/user/projects/.../file.md`).
-- **`url`** - If it's a page, the URL of the page (e.g. `/en/guides/markdown-content`).
-- **`frontmatter`** - all frontmatter from the Markdown or MDX document.
-  - **`frontmatter.file`** - The same as the top-level `file` property.
-  - **`frontmatter.url`** - The same as the top-level `url` property.
-- **`headings`** - A list of headings (`h1 -> h6`) in the Markdown or MDX document with associated metadata. This list follows the type: `{ depth: number; slug: string; text: string }[]`.
-- **(Markdown only) `rawContent()`** - A function that returns the raw Markdown document as a string.
-- **(Markdown only) `compiledContent()`** - A function that returns the Markdown document compiled to an HTML string.
+🚀 **Real-time regulatory breakdowns** as laws are being written
+💡 **Live Q&A sessions** with crypto lawyers and policy experts
+🔍 **Exclusive deep dives** into charter applications and approval processes
+🎯 **Early access** to analysis that hasn't hit mainstream media yet
+🤝 **Network with regulators, builders, and industry leaders** in our private community
 
-An example Markdown blog post may pass the following `Astro.props` object to its layout:
+**📡 [Join HAHZ.LIVE Now & Get Front-Row Access to the Financial Revolution!](#)**
 
-```js
-Astro.props = {
-  file: "/home/user/projects/.../file.md",
-  url: "/en/guides/markdown-content/",
-  frontmatter: {
-    /** Frontmatter from a blog post */
-    title: "Astro 0.18 Release",
-    date: "Tuesday, July 27 2021",
-    author: "Matthew Phillips",
-    description: "Astro 0.18 is our biggest release since Astro launch.",
-    /** Generated values */
-    file: "/home/user/projects/.../file.md",
-    url: "/en/guides/markdown-content/",
-  },
-  headings: [
-    {
-      depth: 1,
-      text: "Astro 0.18 Release",
-      slug: "astro-018-release",
-    },
-    {
-      depth: 2,
-      text: "Responsive partial hydration",
-      slug: "responsive-partial-hydration",
-    },
-    /* ... */
-  ],
+*"The HAHZ.LIVE stream on the GENIUS Act gave me insights I couldn't find anywhere else - and I work in fintech!"* - Current Subscriber
 
-  /** Available in Markdown only */
-  rawContent: () =>
-    "# Astro 0.18 Release\nA little over a month ago, the first public beta [...]",
-  compiledContent: () =>
-    "<h1>Astro 0.18 Release</h1>\n<p>A little over a month ago, the first public beta [...]</p>",
-};
-```
-
-:::note
-A Markdown/MDX layout will have access to all its file's [exported properties](/en/guides/markdown-content/#exported-properties) from `Astro.props` **with some key differences:**
-
-- Heading information (i.e. `h1 -> h6` elements) is available via the `headings` array, rather than a `getHeadings()` function.
-
-- `file` and `url` are _also_ available as nested `frontmatter` properties (i.e. `frontmatter.url` and `frontmatter.file`).
-
-- Values defined outside of frontmatter (e.g. `export` statements in MDX) are not available. Consider [importing a layout](#importing-layouts-manually-mdx) instead.
-  :::
-
-### Importing Layouts Manually (MDX)
-
-You may need to pass information to your MDX layout that does not (or cannot) exist in your frontmatter. In this case, you can instead import and use a [`<Layout />` component](/en/core-concepts/layouts/) and pass it props like any other component:
-
-```mdx title="src/pages/posts/first-post.mdx" ins={6} del={2} /</?BaseLayout>/ /</?BaseLayout title={frontmatter.title} fancyJsHelper={fancyJsHelper}>/
----
-layout: ../../layouts/BaseLayout.astro
-title: "My first MDX post"
-publishDate: "21 September 2022"
----
-
-import BaseLayout from "../../layouts/BaseLayout.astro";
-
-function fancyJsHelper() {
-return "Try doing that with YAML!";
-}
-
-<BaseLayout title={frontmatter.title} fancyJsHelper={fancyJsHelper}>
-  Welcome to my new Astro blog, using MDX!
-</BaseLayout>
-```
-
-Then, your values are available to you through `Astro.props` in your layout, and your MDX content will be injected into the page where your `<slot />` component is written:
-
-```astro /{?title}?/ "fancyJsHelper" "{fancyJsHelper()}"
----
-// src/layouts/BaseLayout.astro
-const { title, fancyJsHelper } = Astro.props;
----
-
-<!-- -->
-<h1>{title}</h1>
-<slot />
-<!-- your content is injected here -->
-<p>{fancyJsHelper()}</p>
-<!-- -->
-```
-
-📚 Learn more about Astro’s Markdown and MDX support in our [Markdown/MDX guide](/en/guides/markdown-content/).
-
-## Using one Layout for `.md`, `.mdx`, and `.astro`
-
-A single Astro layout can be written to receive the `frontmatter` object from `.md` and `.mdx` files, as well as any named props passed from `.astro` files.
-
-In the example below, the layout will display the page title either from a frontmatter YAML `title` property or from an Astro component passing a `title` attribute:
-
-```astro /{?title}?/ /Astro.props[.a-z]*/
----
-// src/components/MyLayout.astro
-const { title } = Astro.props.frontmatter || Astro.props;
----
-
-<html>
-  <head></head>
-  <body>
-    <h1>{title}</h1>
-    <slot />
-  </body>
-</html>
-```
-
-## Nesting Layouts
-
-Layout components do not need to contain an entire page worth of HTML. You can break your layouts into smaller components, and combine layout components to create even more flexible, page templates. This pattern is useful when you want to share some code across multiple layouts.
-
-For example, a `BlogPostLayout.astro` layout component could style a post's title, date and author. Then, a site-wide `BaseLayout.astro` could handle the rest of your page template, like navigation, footers, SEO meta tags, global styles, and fonts. You can also pass props received from your post to another layout, just like any other nested component.
-
-```astro {3} /</?BaseLayout>/ /</?BaseLayout url={frontmatter.url}>/
----
-// src/layouts/BlogPostLayout.astro
-import BaseLayout from "./BaseLayout.astro";
-const { frontmatter } = Astro.props;
----
-
-<BaseLayout url={frontmatter.url}>
-  <h1>{frontmatter.title}</h1>
-  <h2>Post author: {frontmatter.author}</h2>
-  <slot />
-</BaseLayout>
-```
+**Don't get left behind while the financial system transforms around you. Subscribe today!** ✨

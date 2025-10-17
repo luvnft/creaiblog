@@ -3,7 +3,7 @@ title: "How the Wizard of Hahz Pioneered Blockchain and AI in Commercial Real Es
 slug: what-is-a-dispo-social-zaddy
 description: "The true story of how I tokenized the first CRE property as a $33M NFT during COVID and revolutionized real estate tech"
 category:
-  - Proptech
+  - Three
 tags:
   - NFT
   - W3W
